@@ -1,4 +1,3 @@
 print('hello, pull request!')
 
-
-print('tut prikolnee')
+print('a vot ewe printik!')
